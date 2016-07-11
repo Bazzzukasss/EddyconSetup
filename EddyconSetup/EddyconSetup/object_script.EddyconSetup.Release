@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\UDPClient_EddyconC.o
+./release\UDPClient.o
+./release\qcustomplot.o
+./release\TNetDevice.o
+./release\moc_mainwindow.o
+./release\moc_UDPClient.o
+./release\moc_UDPClient_EddyconC.o
+./release\moc_qcustomplot.o
+./release\moc_TThread.o
+);
